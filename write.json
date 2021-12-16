@@ -1,0 +1,1302 @@
+[
+    {
+        "pk": 1,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 5\"",
+            "year": 1894,
+            "pages": 685,
+            "isbn13": "978-1-83768-318-5",
+            "rating": 3.14376435950894,
+            "price": 7733.39,
+            "author": "Jonathan Robinson"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 2\"",
+            "year": 2011,
+            "pages": 835,
+            "isbn13": "978-1-359-02767-2",
+            "rating": 1.8897083393909093,
+            "price": 5284.84,
+            "author": "Melissa Perez"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 3\"",
+            "year": 1951,
+            "pages": 932,
+            "isbn13": "978-0-242-79544-5",
+            "rating": 0.8733342342566736,
+            "price": 2098.48,
+            "author": "Nicole Carter"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 4\"",
+            "year": 1833,
+            "pages": 546,
+            "isbn13": "978-1-879284-91-3",
+            "rating": 2.1793369582558366,
+            "price": 645.86,
+            "author": "James Dawson"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 1\"",
+            "year": 1975,
+            "pages": 288,
+            "isbn13": "978-1-312-95605-6",
+            "rating": 3.291062641619837,
+            "price": 9613.02,
+            "author": "Donna Harris"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 4\"",
+            "year": 1818,
+            "pages": 876,
+            "isbn13": "978-0-345-46896-3",
+            "rating": 1.183798086533459,
+            "price": 4753.64,
+            "author": "Jeffrey Gibson Jr."
+        }
+    },
+    {
+        "pk": 7,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 1\"",
+            "year": 1914,
+            "pages": 875,
+            "isbn13": "978-0-9555176-2-4",
+            "rating": 4.069809866938586,
+            "price": 771.57,
+            "author": "Randall Walker"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 4\"",
+            "year": 1901,
+            "pages": 821,
+            "isbn13": "978-0-12-290261-1",
+            "rating": 3.1264400576144413,
+            "price": 3869.53,
+            "author": "Amanda Warren"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 2\"",
+            "year": 1829,
+            "pages": 85,
+            "isbn13": "978-0-550-91735-5",
+            "rating": 2.736326089699543,
+            "price": 9840.01,
+            "author": "Nancy Castillo"
+        }
+    },
+    {
+        "pk": 10,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 2\"",
+            "year": 1946,
+            "pages": 578,
+            "isbn13": "978-1-179-58240-5",
+            "rating": 3.7266071691300526,
+            "price": 3805.5,
+            "author": "Patricia Zimmerman"
+        }
+    },
+    {
+        "pk": 11,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 2\"",
+            "year": 1993,
+            "pages": 690,
+            "isbn13": "978-1-77588-864-2",
+            "rating": 1.7259151573004816,
+            "price": 2639.1,
+            "author": "Austin Mathis"
+        }
+    },
+    {
+        "pk": 12,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 4\"",
+            "year": 1932,
+            "pages": 851,
+            "isbn13": "978-1-84325-441-6",
+            "rating": 4.733471311749272,
+            "price": 4873.03,
+            "author": "Joshua Browning"
+        }
+    },
+    {
+        "pk": 13,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 2\"",
+            "year": 1947,
+            "pages": 415,
+            "isbn13": "978-0-455-14147-3",
+            "rating": 3.357436230609714,
+            "price": 5515.66,
+            "author": "Stephanie Gonzalez"
+        }
+    },
+    {
+        "pk": 14,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 4\"",
+            "year": 1858,
+            "pages": 685,
+            "isbn13": "978-1-4950-2768-0",
+            "rating": 1.527842540710267,
+            "price": 7408.23,
+            "author": "Jean Coffey"
+        }
+    },
+    {
+        "pk": 15,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 3\"",
+            "year": 1947,
+            "pages": 120,
+            "isbn13": "978-1-77846-867-4",
+            "rating": 1.5387771959766439,
+            "price": 5341.15,
+            "author": "Kara Chambers"
+        }
+    },
+    {
+        "pk": 16,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 4\"",
+            "year": 1930,
+            "pages": 881,
+            "isbn13": "978-0-04-055306-3",
+            "rating": 3.8315359700181877,
+            "price": 4835.16,
+            "author": "Bradley Wu"
+        }
+    },
+    {
+        "pk": 17,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 3\"",
+            "year": 1959,
+            "pages": 48,
+            "isbn13": "978-1-59995-031-0",
+            "rating": 0.5975376508495722,
+            "price": 6825.11,
+            "author": "Catherine Perry"
+        }
+    },
+    {
+        "pk": 18,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 4\"",
+            "year": 1923,
+            "pages": 796,
+            "isbn13": "978-0-87734-793-4",
+            "rating": 2.611856841453558,
+            "price": 6565.33,
+            "author": "James Harrison"
+        }
+    },
+    {
+        "pk": 19,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 4\"",
+            "year": 1800,
+            "pages": 991,
+            "isbn13": "978-0-8340-9877-0",
+            "rating": 2.023329067782238,
+            "price": 3256.02,
+            "author": "Dakota Martin"
+        }
+    },
+    {
+        "pk": 20,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 5\"",
+            "year": 1867,
+            "pages": 9,
+            "isbn13": "978-0-88937-878-0",
+            "rating": 1.3306909503606175,
+            "price": 2765.86,
+            "author": "Dominic Harper"
+        }
+    },
+    {
+        "pk": 21,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 1\"",
+            "year": 1869,
+            "pages": 128,
+            "isbn13": "978-1-7393098-3-1",
+            "rating": 2.2333385157965866,
+            "price": 7384.21,
+            "author": "Beth Brown"
+        }
+    },
+    {
+        "pk": 22,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 1\"",
+            "year": 1818,
+            "pages": 634,
+            "isbn13": "978-0-282-60056-3",
+            "rating": 3.634443409147572,
+            "price": 3422.98,
+            "author": "Rhonda Brooks"
+        }
+    },
+    {
+        "pk": 23,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 3\"",
+            "year": 1977,
+            "pages": 372,
+            "isbn13": "978-0-432-24246-9",
+            "rating": 3.5591235074792733,
+            "price": 3473.42,
+            "author": "Andrea Stone"
+        }
+    },
+    {
+        "pk": 24,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 1\"",
+            "year": 1996,
+            "pages": 334,
+            "isbn13": "978-1-286-47889-9",
+            "rating": 4.995500436953248,
+            "price": 2873.29,
+            "author": "David Gilmore"
+        }
+    },
+    {
+        "pk": 25,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 2\"",
+            "year": 1966,
+            "pages": 498,
+            "isbn13": "978-0-15-199696-4",
+            "rating": 1.8699144743187608,
+            "price": 7748.88,
+            "author": "Deanna Huerta MD"
+        }
+    },
+    {
+        "pk": 26,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 2\"",
+            "year": 1801,
+            "pages": 640,
+            "isbn13": "978-1-166-99653-6",
+            "rating": 1.212516766748068,
+            "price": 9638.21,
+            "author": "Michael Williams"
+        }
+    },
+    {
+        "pk": 27,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 5\"",
+            "year": 1862,
+            "pages": 173,
+            "isbn13": "978-1-76854-855-3",
+            "rating": 1.15356162863893,
+            "price": 8738.47,
+            "author": "Alexis White"
+        }
+    },
+    {
+        "pk": 28,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 2\"",
+            "year": 1805,
+            "pages": 408,
+            "isbn13": "978-0-331-35627-4",
+            "rating": 0.5508968520874663,
+            "price": 3990.78,
+            "author": "Scott Romero"
+        }
+    },
+    {
+        "pk": 29,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 1\"",
+            "year": 1852,
+            "pages": 575,
+            "isbn13": "978-0-8289-7251-2",
+            "rating": 1.8909935136403766,
+            "price": 1075.66,
+            "author": "Teresa Key"
+        }
+    },
+    {
+        "pk": 30,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 4\"",
+            "year": 1929,
+            "pages": 742,
+            "isbn13": "978-1-7336504-0-3",
+            "rating": 4.930958862142797,
+            "price": 8963.93,
+            "author": "Frederick Reid"
+        }
+    },
+    {
+        "pk": 31,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 5\"",
+            "year": 1896,
+            "pages": 844,
+            "isbn13": "978-1-76693-047-3",
+            "rating": 3.8946879840297157,
+            "price": 1891.67,
+            "author": "Alexis Hickman"
+        }
+    },
+    {
+        "pk": 32,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 2\"",
+            "year": 1843,
+            "pages": 977,
+            "isbn13": "978-1-206-68748-6",
+            "rating": 1.0454075595027383,
+            "price": 1846.8,
+            "author": "Christopher Mahoney"
+        }
+    },
+    {
+        "pk": 33,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 1\"",
+            "year": 1838,
+            "pages": 950,
+            "isbn13": "978-0-89667-037-2",
+            "rating": 1.5296029589899773,
+            "price": 8385.92,
+            "author": "Jennifer Morris MD"
+        }
+    },
+    {
+        "pk": 34,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 3\"",
+            "year": 1820,
+            "pages": 106,
+            "isbn13": "978-1-168-23494-0",
+            "rating": 0.723524188393716,
+            "price": 5986.93,
+            "author": "Randy Davis"
+        }
+    },
+    {
+        "pk": 35,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 5\"",
+            "year": 1867,
+            "pages": 397,
+            "isbn13": "978-1-85372-201-1",
+            "rating": 3.357640262808248,
+            "price": 650.77,
+            "author": "George Dudley"
+        }
+    },
+    {
+        "pk": 36,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 4\"",
+            "year": 1930,
+            "pages": 414,
+            "isbn13": "978-0-7780-4220-4",
+            "rating": 3.842860518752056,
+            "price": 6566.64,
+            "author": "Jamie Jackson"
+        }
+    },
+    {
+        "pk": 37,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 1\"",
+            "year": 1932,
+            "pages": 877,
+            "isbn13": "978-1-59000-997-0",
+            "rating": 4.167567481118945,
+            "price": 6449.42,
+            "author": "Emily Burgess"
+        }
+    },
+    {
+        "pk": 38,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 2\"",
+            "year": 1911,
+            "pages": 106,
+            "isbn13": "978-0-7607-1447-8",
+            "rating": 1.8766506156197522,
+            "price": 3335.56,
+            "author": "Gabrielle Wright"
+        }
+    },
+    {
+        "pk": 39,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 4\"",
+            "year": 1963,
+            "pages": 793,
+            "isbn13": "978-0-383-48770-4",
+            "rating": 3.023937728460459,
+            "price": 2495.32,
+            "author": "Shawn Berry"
+        }
+    },
+    {
+        "pk": 40,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 1\"",
+            "year": 1830,
+            "pages": 665,
+            "isbn13": "978-1-914153-84-6",
+            "rating": 2.813052581732361,
+            "price": 2318.26,
+            "author": "Wesley Kirk"
+        }
+    },
+    {
+        "pk": 41,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 3\"",
+            "year": 1982,
+            "pages": 691,
+            "isbn13": "978-1-75332-831-3",
+            "rating": 1.215523449742617,
+            "price": 7664.23,
+            "author": "Candice Gallagher"
+        }
+    },
+    {
+        "pk": 42,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 2\"",
+            "year": 1806,
+            "pages": 428,
+            "isbn13": "978-1-06-621911-7",
+            "rating": 3.8964562155952587,
+            "price": 8038.32,
+            "author": "Teresa Kidd"
+        }
+    },
+    {
+        "pk": 43,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 1\"",
+            "year": 1889,
+            "pages": 518,
+            "isbn13": "978-1-82531-217-2",
+            "rating": 2.0794029746040934,
+            "price": 9655.82,
+            "author": "Nathaniel Robinson"
+        }
+    },
+    {
+        "pk": 44,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 5\"",
+            "year": 1880,
+            "pages": 499,
+            "isbn13": "978-0-642-61136-9",
+            "rating": 3.592945505949849,
+            "price": 6213.16,
+            "author": "Ryan Mcintyre"
+        }
+    },
+    {
+        "pk": 45,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 2\"",
+            "year": 1900,
+            "pages": 897,
+            "isbn13": "978-1-4977-7749-1",
+            "rating": 3.4247325495932097,
+            "price": 942.63,
+            "author": "Karen Rogers"
+        }
+    },
+    {
+        "pk": 46,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 5\"",
+            "year": 1839,
+            "pages": 919,
+            "isbn13": "978-0-348-91518-1",
+            "rating": 3.3975890242057893,
+            "price": 538.53,
+            "author": "Chad Price"
+        }
+    },
+    {
+        "pk": 47,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 4\"",
+            "year": 1873,
+            "pages": 736,
+            "isbn13": "978-0-86618-985-9",
+            "rating": 4.5344617668180645,
+            "price": 9730.59,
+            "author": "Jillian Johnson"
+        }
+    },
+    {
+        "pk": 48,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 4\"",
+            "year": 1803,
+            "pages": 914,
+            "isbn13": "978-0-239-33959-1",
+            "rating": 2.851885433365053,
+            "price": 141.96,
+            "author": "Diane Marquez"
+        }
+    },
+    {
+        "pk": 49,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 2\"",
+            "year": 1972,
+            "pages": 295,
+            "isbn13": "978-0-8417-4117-1",
+            "rating": 2.894439295170498,
+            "price": 2009.83,
+            "author": "Nicholas Pena"
+        }
+    },
+    {
+        "pk": 50,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 5\"",
+            "year": 1852,
+            "pages": 563,
+            "isbn13": "978-0-687-35929-5",
+            "rating": 3.481528437781871,
+            "price": 2716.15,
+            "author": "Scott Bailey"
+        }
+    },
+    {
+        "pk": 51,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 2\"",
+            "year": 1876,
+            "pages": 969,
+            "isbn13": "978-1-06-128603-9",
+            "rating": 2.42413257945618,
+            "price": 3718.13,
+            "author": "Jesse Anderson"
+        }
+    },
+    {
+        "pk": 52,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 1\"",
+            "year": 1953,
+            "pages": 246,
+            "isbn13": "978-0-15-610313-8",
+            "rating": 0.5265504903041102,
+            "price": 6286.62,
+            "author": "Jessica Herrera"
+        }
+    },
+    {
+        "pk": 53,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 3\"",
+            "year": 1983,
+            "pages": 250,
+            "isbn13": "978-1-5272-9091-4",
+            "rating": 3.2196413202030043,
+            "price": 4038.23,
+            "author": "Bryan Bruce"
+        }
+    },
+    {
+        "pk": 54,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 3\"",
+            "year": 1967,
+            "pages": 645,
+            "isbn13": "978-1-83583-196-0",
+            "rating": 0.06750160168880193,
+            "price": 3555.32,
+            "author": "Jay Morgan"
+        }
+    },
+    {
+        "pk": 55,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 3\"",
+            "year": 2015,
+            "pages": 261,
+            "isbn13": "978-0-00-155240-1",
+            "rating": 4.33072036529618,
+            "price": 7855.94,
+            "author": "Robert Perez"
+        }
+    },
+    {
+        "pk": 56,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 4\"",
+            "year": 1812,
+            "pages": 14,
+            "isbn13": "978-0-7358-8137-2",
+            "rating": 4.17783932687649,
+            "price": 1190.28,
+            "author": "Juan May"
+        }
+    },
+    {
+        "pk": 57,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 4\"",
+            "year": 1927,
+            "pages": 26,
+            "isbn13": "978-0-9925850-4-4",
+            "rating": 0.3356723000968148,
+            "price": 3431.34,
+            "author": "Craig Byrd"
+        }
+    },
+    {
+        "pk": 58,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 5\"",
+            "year": 2005,
+            "pages": 589,
+            "isbn13": "978-0-10-091158-1",
+            "rating": 3.9187783760695023,
+            "price": 6274.16,
+            "author": "Susan Graham"
+        }
+    },
+    {
+        "pk": 59,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 3\"",
+            "year": 1987,
+            "pages": 598,
+            "isbn13": "978-1-899072-93-4",
+            "rating": 3.2574239613561744,
+            "price": 4769.13,
+            "author": "Amy Garner"
+        }
+    },
+    {
+        "pk": 60,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 5\"",
+            "year": 1879,
+            "pages": 70,
+            "isbn13": "978-1-960229-10-6",
+            "rating": 3.6511708363445687,
+            "price": 6763.17,
+            "author": "Samuel Mcdaniel"
+        }
+    },
+    {
+        "pk": 61,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 4\"",
+            "year": 1994,
+            "pages": 990,
+            "isbn13": "978-1-64148-624-8",
+            "rating": 2.184263563413534,
+            "price": 3104.08,
+            "author": "Felicia Bell"
+        }
+    },
+    {
+        "pk": 62,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 3\"",
+            "year": 1845,
+            "pages": 28,
+            "isbn13": "978-1-55692-436-1",
+            "rating": 3.5971527611436738,
+            "price": 3997.87,
+            "author": "Kaitlin Christensen"
+        }
+    },
+    {
+        "pk": 63,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 4\"",
+            "year": 1957,
+            "pages": 530,
+            "isbn13": "978-1-5464-6396-2",
+            "rating": 0.301391634929562,
+            "price": 2969.0,
+            "author": "Alyssa Thompson"
+        }
+    },
+    {
+        "pk": 64,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 4\"",
+            "year": 1903,
+            "pages": 710,
+            "isbn13": "978-1-182-50091-5",
+            "rating": 1.4886858379201962,
+            "price": 9910.25,
+            "author": "James Whitehead"
+        }
+    },
+    {
+        "pk": 65,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 3\"",
+            "year": 1985,
+            "pages": 326,
+            "isbn13": "978-0-9814941-2-8",
+            "rating": 3.713094450109462,
+            "price": 5704.4,
+            "author": "Tyler Singh"
+        }
+    },
+    {
+        "pk": 66,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 2\"",
+            "year": 1960,
+            "pages": 901,
+            "isbn13": "978-0-286-65423-4",
+            "rating": 4.1981008586718,
+            "price": 7479.82,
+            "author": "Aaron Morris"
+        }
+    },
+    {
+        "pk": 67,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 5\"",
+            "year": 1993,
+            "pages": 545,
+            "isbn13": "978-1-147-34005-1",
+            "rating": 3.4406795238796226,
+            "price": 8657.34,
+            "author": "Nichole Rodriguez"
+        }
+    },
+    {
+        "pk": 68,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 5\"",
+            "year": 1943,
+            "pages": 833,
+            "isbn13": "978-1-76426-458-7",
+            "rating": 2.880856665496232,
+            "price": 5779.9,
+            "author": "Brianna Smith"
+        }
+    },
+    {
+        "pk": 69,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 1\"",
+            "year": 1988,
+            "pages": 8,
+            "isbn13": "978-1-81493-685-3",
+            "rating": 0.5377916841591757,
+            "price": 9841.34,
+            "author": "Laurie Raymond"
+        }
+    },
+    {
+        "pk": 70,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 2\"",
+            "year": 1950,
+            "pages": 166,
+            "isbn13": "978-1-08-634738-8",
+            "rating": 3.7804405448628495,
+            "price": 9830.86,
+            "author": "Sara Chavez"
+        }
+    },
+    {
+        "pk": 71,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 2\"",
+            "year": 1877,
+            "pages": 765,
+            "isbn13": "978-0-00-296189-9",
+            "rating": 4.854078787428923,
+            "price": 3331.8,
+            "author": "Steven Hill"
+        }
+    },
+    {
+        "pk": 72,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 4\"",
+            "year": 1860,
+            "pages": 353,
+            "isbn13": "978-1-890552-71-8",
+            "rating": 1.7775387152287003,
+            "price": 6788.9,
+            "author": "Amy Pollard"
+        }
+    },
+    {
+        "pk": 73,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 1\"",
+            "year": 1872,
+            "pages": 173,
+            "isbn13": "978-0-02-044933-1",
+            "rating": 3.3460182262484284,
+            "price": 3416.17,
+            "author": "Christopher Johnson"
+        }
+    },
+    {
+        "pk": 74,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 1\"",
+            "year": 1812,
+            "pages": 166,
+            "isbn13": "978-0-7547-9939-9",
+            "rating": 3.464338102202867,
+            "price": 9624.67,
+            "author": "Jonathan Raymond"
+        }
+    },
+    {
+        "pk": 75,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 2\"",
+            "year": 1983,
+            "pages": 616,
+            "isbn13": "978-1-907272-40-0",
+            "rating": 2.214480928624197,
+            "price": 2756.75,
+            "author": "Cindy Small"
+        }
+    },
+    {
+        "pk": 76,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 5\"",
+            "year": 1952,
+            "pages": 4,
+            "isbn13": "978-0-442-52820-1",
+            "rating": 0.07011966869497843,
+            "price": 3806.21,
+            "author": "Elizabeth White"
+        }
+    },
+    {
+        "pk": 77,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 5\"",
+            "year": 1846,
+            "pages": 85,
+            "isbn13": "978-0-259-06838-9",
+            "rating": 0.7648136672833883,
+            "price": 8699.58,
+            "author": "Gregory Mccormick"
+        }
+    },
+    {
+        "pk": 78,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 5\"",
+            "year": 1977,
+            "pages": 666,
+            "isbn13": "978-1-80936-494-4",
+            "rating": 0.6385780079793568,
+            "price": 6849.15,
+            "author": "Sharon Freeman"
+        }
+    },
+    {
+        "pk": 79,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 2\"",
+            "year": 1827,
+            "pages": 875,
+            "isbn13": "978-0-85614-821-7",
+            "rating": 0.590587642958193,
+            "price": 5190.09,
+            "author": "Seth Holloway"
+        }
+    },
+    {
+        "pk": 80,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 5\"",
+            "year": 1899,
+            "pages": 303,
+            "isbn13": "978-1-5244-6437-0",
+            "rating": 1.4467234181787092,
+            "price": 7063.9,
+            "author": "Lisa Lee"
+        }
+    },
+    {
+        "pk": 81,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 3\"",
+            "year": 1926,
+            "pages": 827,
+            "isbn13": "978-0-7981-4947-1",
+            "rating": 4.033060859386501,
+            "price": 4434.9,
+            "author": "Bryan Butler"
+        }
+    },
+    {
+        "pk": 82,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 4\"",
+            "year": 1909,
+            "pages": 748,
+            "isbn13": "978-1-892098-89-4",
+            "rating": 4.672904513629543,
+            "price": 6217.48,
+            "author": "Adam Davis"
+        }
+    },
+    {
+        "pk": 83,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 3\"",
+            "year": 1867,
+            "pages": 624,
+            "isbn13": "978-1-9877-3822-3",
+            "rating": 2.195909179059451,
+            "price": 3472.24,
+            "author": "Troy Gardner"
+        }
+    },
+    {
+        "pk": 84,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 2\"",
+            "year": 1977,
+            "pages": 486,
+            "isbn13": "978-1-100-04479-8",
+            "rating": 4.3559987480730085,
+            "price": 8218.76,
+            "author": "Madeline Mcguire"
+        }
+    },
+    {
+        "pk": 85,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 2\"",
+            "year": 1927,
+            "pages": 779,
+            "isbn13": "978-0-384-94953-9",
+            "rating": 1.0066041258303415,
+            "price": 5717.17,
+            "author": "Mr. Christopher Hebert Jr."
+        }
+    },
+    {
+        "pk": 86,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 2\"",
+            "year": 1855,
+            "pages": 239,
+            "isbn13": "978-1-09-052752-3",
+            "rating": 0.7534053204805946,
+            "price": 8710.98,
+            "author": "Susan Harris"
+        }
+    },
+    {
+        "pk": 87,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 5\"",
+            "year": 1831,
+            "pages": 633,
+            "isbn13": "978-1-152-49766-5",
+            "rating": 2.472986084364842,
+            "price": 6058.91,
+            "author": "Denise Cunningham"
+        }
+    },
+    {
+        "pk": 88,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 1\"",
+            "year": 1851,
+            "pages": 619,
+            "isbn13": "978-1-5118-3906-8",
+            "rating": 0.8553355547811264,
+            "price": 5307.76,
+            "author": "Alex Koch"
+        }
+    },
+    {
+        "pk": 89,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 2\"",
+            "year": 1812,
+            "pages": 954,
+            "isbn13": "978-0-7598-0945-1",
+            "rating": 0.06920552397171542,
+            "price": 6383.51,
+            "author": "Jasmine Mosley"
+        }
+    },
+    {
+        "pk": 90,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 3\"",
+            "year": 1971,
+            "pages": 833,
+            "isbn13": "978-1-903644-07-2",
+            "rating": 0.7515490729364621,
+            "price": 6693.74,
+            "author": "Michelle Mcdonald"
+        }
+    },
+    {
+        "pk": 91,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 2\"",
+            "year": 1972,
+            "pages": 927,
+            "isbn13": "978-1-09-812315-4",
+            "rating": 3.3876903830945833,
+            "price": 1829.62,
+            "author": "Deanna Murray"
+        }
+    },
+    {
+        "pk": 92,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 3\"",
+            "year": 1824,
+            "pages": 60,
+            "isbn13": "978-1-344-34672-6",
+            "rating": 0.30438525193180244,
+            "price": 8477.99,
+            "author": "Joel Long"
+        }
+    },
+    {
+        "pk": 93,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 5\"",
+            "year": 1859,
+            "pages": 509,
+            "isbn13": "978-0-515-75572-5",
+            "rating": 3.8474904383330637,
+            "price": 3332.03,
+            "author": "Allison Padilla"
+        }
+    },
+    {
+        "pk": 94,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 1\"",
+            "year": 1915,
+            "pages": 726,
+            "isbn13": "978-0-482-89912-5",
+            "rating": 4.615175780963463,
+            "price": 903.77,
+            "author": "Zachary Proctor III"
+        }
+    },
+    {
+        "pk": 95,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 5\"",
+            "year": 1928,
+            "pages": 939,
+            "isbn13": "978-0-9939349-7-1",
+            "rating": 1.5314243360436013,
+            "price": 3324.34,
+            "author": "Lisa Flores"
+        }
+    },
+    {
+        "pk": 96,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 3\"",
+            "year": 1995,
+            "pages": 154,
+            "isbn13": "978-0-06-424570-8",
+            "rating": 1.7777706527725763,
+            "price": 3430.38,
+            "author": "John Villa"
+        }
+    },
+    {
+        "pk": 97,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 1\"",
+            "year": 1875,
+            "pages": 299,
+            "isbn13": "978-1-4067-6595-3",
+            "rating": 0.9959877412895018,
+            "price": 9353.12,
+            "author": "Timothy Parker"
+        }
+    },
+    {
+        "pk": 98,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 2\"",
+            "year": 1884,
+            "pages": 331,
+            "isbn13": "978-1-06-969986-2",
+            "rating": 3.7693880425031807,
+            "price": 3301.92,
+            "author": "Ashley Hardy"
+        }
+    },
+    {
+        "pk": 99,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 3\"",
+            "year": 1953,
+            "pages": 725,
+            "isbn13": "978-0-515-90701-8",
+            "rating": 4.17973971071138,
+            "price": 6226.02,
+            "author": "Kaylee White"
+        }
+    },
+    {
+        "pk": 100,
+        "model": "shop_final.book",
+        "fields": {
+            "Title": "\"Название 4\"",
+            "year": 1994,
+            "pages": 897,
+            "isbn13": "978-1-58974-080-8",
+            "rating": 3.28930846585623,
+            "price": 2391.49,
+            "author": "Katherine Dyer"
+        }
+    }
+]
