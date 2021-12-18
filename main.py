@@ -5,6 +5,19 @@ from faker import Faker
 fake = Faker()
 
 
+def check_len_title(func):
+    """Method checks length of books title, which should be less then 25 symbols"""
+    def wrapper():
+        val = func()
+        if len(val) > 25:
+            raise ValueError("Name of this book is too long")
+        else:
+            return val
+
+    return wrapper
+
+
+@check_len_title
 def get_value_title() -> str:
     """Method returns title from file books.txt"""
     lines = open("books.txt", "r", encoding="utf-8").read().splitlines()
