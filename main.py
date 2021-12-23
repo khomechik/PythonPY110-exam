@@ -1,13 +1,15 @@
 import json
-from conf import MODEL
 import random
+
 from faker import Faker
 fake = Faker()
+
+from conf import MODEL
 
 
 def check_len_title(func):
     """Method checks length of books title, which should be less then 25 symbols"""
-    def wrapper():
+    def wrapper(*args, **kwargs):
         val = func()
         if len(val) > 25:
             raise ValueError("Name of this book is too long")
@@ -20,7 +22,8 @@ def check_len_title(func):
 @check_len_title
 def get_value_title() -> str:
     """Method returns title from file books.txt"""
-    lines = open("books.txt", "r", encoding="utf-8").read().splitlines()
+    with open("books.txt", "r", encoding="utf-8") as f:
+        lines = f.read().splitlines()
     return random.choice(lines)
 
 
@@ -72,7 +75,7 @@ def generator_(pk: int = 1) -> dict:
 
 def main() -> None:
     """Method receives list of 100 dictionaries and writes it into json file"""
-    result = list()
+    result = []
     book = generator_()
     for _ in range(100):
         result.append(next(book))
